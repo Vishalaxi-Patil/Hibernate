@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<j2ee:connector version="1.5" xmlns:j2ee="http://java.sun.com/xml/ns/j2ee" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/connector_1_5.xsd ">
+  <j2ee:vendor-name>j2ee:vendor-name</j2ee:vendor-name>
+  <j2ee:eis-type>j2ee:eis-type</j2ee:eis-type>
+  <j2ee:resourceadapter-version>j2ee:resourceadapter-version</j2ee:resourceadapter-version>
+  <j2ee:resourceadapter/>
+</j2ee:connector>
